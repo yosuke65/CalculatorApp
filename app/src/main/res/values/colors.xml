@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBasic">#FDFEFE</color>
+    <color name="signinButton">#C0392B </color>
+    <color name="signinbackground">#273746  </color>
+    <color name="lightGreen">#23a7a2</color>
+    <color name="lightRed">#f2687d</color>
+    <color name="lightYellow">#f2cb6c</color>
+</resources>

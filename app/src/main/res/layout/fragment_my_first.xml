@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.MyFirstFragment"
+    android:background="#23a7a2"
+    android:id="@+id/frag1_container">
+
+    <TextView
+        android:id="@+id/frag1_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Fragment1"
+        android:textColor="#fff"
+        android:textSize="32dp" />
+
+    <Button
+        android:id="@+id/button1_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_below="@+id/frag1_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Next"
+        android:background="@drawable/button_round_corner"/>
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_text">Sign in</string>
+    <string name="google_signin_text">Sign in with Google+</string>
+    <string name="register_account"><a href="">Register a new account</a></string>
+    <string name="forgot_password"><a href="">Forgot password</a></string>
+    <string name="language">English</string>
+    <string name="first_number">Enter first number</string>
+    <string name="second_number">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">multiply</string>
+    <string name="divide">Divide</string>
+    <string name="name_register_hint">Enter your name</string>
+    <string name="email_register_hint">Enter your email</string>
+    <string name="password_register_hint">Enter your password</string>
+    <string name="have_account">Already Registerd?</string>
+    <string name="new_user">New User?</string>
+    <string name="click_here"><a href="">click here</a></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
